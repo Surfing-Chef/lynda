@@ -19,3 +19,5 @@ Warning: Accessing PropTypes via the main React package is deprecated, and will 
   - `npm update` will install the latest versions without modifying a package file
   - `ncu -u` upgrades a package.json  
   - `ncu -a` upgrades a package.json, even those dependencies whose latest version satisfies the declared semver dependency
+
+- **React Icons** @ [https://gorangajic.github.io/react-icons/index.html](https://gorangajic.github.io/react-icons/index.html)
